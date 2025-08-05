@@ -1,0 +1,47 @@
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Infrastructure.DataAccess\bin\Debug\Infrastructure.DataAccess.dll
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Infrastructure.DataAccess\bin\Debug\Infrastructure.DataAccess.pdb
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Infrastructure.DataAccess\bin\Debug\Infrastructure.Common.dll
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Infrastructure.DataAccess\bin\Debug\Infrastructure.Common.pdb
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Infrastructure.DataAccess\obj\Debug\Infrastructure.DataAccess.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Infrastructure.DataAccess\obj\Debug\Infrastructure.DataAccess.dll
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Infrastructure.DataAccess\obj\Debug\Infrastructure.DataAccess.pdb
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Infrastructure.DataAccess\bin\Debug\Infrastructure.DataAccess.dll
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Infrastructure.DataAccess\bin\Debug\Infrastructure.DataAccess.pdb
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Infrastructure.DataAccess\bin\Debug\Infrastructure.Common.dll
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Infrastructure.DataAccess\bin\Debug\Infrastructure.Common.pdb
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Infrastructure.DataAccess\obj\Debug\Infrastructure.DataAccess.csprojResolveAssemblyReference.cache
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Infrastructure.DataAccess\obj\Debug\Infrastructure.DataAccess.dll
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Infrastructure.DataAccess\obj\Debug\Infrastructure.DataAccess.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Infrastructure.DataAccess\bin\Debug\Infrastructure.DataAccess.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Infrastructure.DataAccess\bin\Debug\Infrastructure.DataAccess.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Infrastructure.DataAccess\bin\Debug\Infrastructure.Common.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Infrastructure.DataAccess\bin\Debug\Infrastructure.Common.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Infrastructure.DataAccess\obj\Debug\Infrastructure.DataAccess.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Infrastructure.DataAccess\obj\Debug\Infrastructure.DataAccess.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Infrastructure.DataAccess\obj\Debug\Infrastructure.DataAccess.pdb
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Infrastructure.DataAccess\bin\Debug\Infrastructure.DataAccess.dll
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Infrastructure.DataAccess\bin\Debug\Infrastructure.DataAccess.pdb
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Infrastructure.DataAccess\bin\Debug\Infrastructure.Common.dll
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Infrastructure.DataAccess\bin\Debug\Infrastructure.Common.pdb
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Infrastructure.DataAccess\obj\Debug\Infrastructure.DataAccess.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Infrastructure.DataAccess\obj\Debug\Infrastructure.DataAccess.csproj.CopyComplete
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Infrastructure.DataAccess\obj\Debug\Infrastructure.DataAccess.dll
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Infrastructure.DataAccess\obj\Debug\Infrastructure.DataAccess.pdb
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Infrastructure.DataAccess\bin\Debug\Infrastructure.DataAccess.dll
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Infrastructure.DataAccess\bin\Debug\Infrastructure.DataAccess.pdb
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Infrastructure.DataAccess\bin\Debug\Infrastructure.Common.dll
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Infrastructure.DataAccess\bin\Debug\Infrastructure.Common.pdb
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Infrastructure.DataAccess\obj\Debug\Infrastructure.DataAccess.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Infrastructure.DataAccess\obj\Debug\Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Infrastructure.DataAccess\obj\Debug\Infrastructure.DataAccess.csproj.CopyComplete
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Infrastructure.DataAccess\obj\Debug\Infrastructure.DataAccess.dll
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Infrastructure.DataAccess\obj\Debug\Infrastructure.DataAccess.pdb
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Infrastructure.DataAccess\bin\Debug\Infrastructure.DataAccess.dll
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Infrastructure.DataAccess\bin\Debug\Infrastructure.DataAccess.pdb
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Infrastructure.DataAccess\bin\Debug\Infrastructure.Common.dll
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Infrastructure.DataAccess\bin\Debug\Infrastructure.Common.pdb
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Infrastructure.DataAccess\obj\Debug\Infrastructure.DataAccess.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Infrastructure.DataAccess\obj\Debug\Infrastructure.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Infrastructure.DataAccess\obj\Debug\Infrastructure.DataAccess.csproj.CopyComplete
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Infrastructure.DataAccess\obj\Debug\Infrastructure.DataAccess.dll
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Infrastructure.DataAccess\obj\Debug\Infrastructure.DataAccess.pdb
