@@ -1,0 +1,26 @@
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.ValueObjects\bin\Debug\Domain.ValueObjects.dll
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.ValueObjects\bin\Debug\Domain.ValueObjects.pdb
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.dll
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.ValueObjects\bin\Debug\Domain.ValueObjects.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.ValueObjects\bin\Debug\Domain.ValueObjects.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.pdb
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.ValueObjects\bin\Debug\Domain.ValueObjects.dll
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.ValueObjects\bin\Debug\Domain.ValueObjects.pdb
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.dll
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.pdb
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Domain.ValueObjects\bin\Debug\Domain.ValueObjects.dll
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Domain.ValueObjects\bin\Debug\Domain.ValueObjects.pdb
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.dll
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.pdb
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Domain.ValueObjects\bin\Debug\Domain.ValueObjects.dll
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Domain.ValueObjects\bin\Debug\Domain.ValueObjects.pdb
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.dll
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.pdb

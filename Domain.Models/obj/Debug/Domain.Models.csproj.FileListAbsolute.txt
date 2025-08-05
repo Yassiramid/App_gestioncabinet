@@ -1,0 +1,95 @@
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Domain.Models.dll
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Domain.Models.pdb
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Domain.ValueObjects.dll
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.Common.dll
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.DataAccess.dll
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.MailServices.dll
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Domain.ValueObjects.pdb
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.Common.pdb
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.DataAccess.pdb
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.MailServices.pdb
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.Models\obj\Debug\Domain.Models.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.Models\obj\Debug\Domain.Models.dll
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.Models\obj\Debug\Domain.Models.pdb
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Domain.Models.dll
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Domain.Models.pdb
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Domain.ValueObjects.dll
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.Common.dll
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.DataAccess.dll
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.MailServices.dll
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Domain.ValueObjects.pdb
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.Common.pdb
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.DataAccess.pdb
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.MailServices.pdb
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.Models\obj\Debug\Domain.Models.dll
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\Domain.Models\obj\Debug\Domain.Models.pdb
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Domain.Models.dll
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Domain.Models.pdb
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Domain.ValueObjects.dll
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.Common.dll
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.DataAccess.dll
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.MailServices.dll
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Domain.ValueObjects.pdb
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.Common.pdb
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.DataAccess.pdb
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.MailServices.pdb
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\obj\Debug\Domain.Models.csprojResolveAssemblyReference.cache
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\obj\Debug\Domain.Models.dll
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\obj\Debug\Domain.Models.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Domain.Models.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Domain.Models.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Domain.ValueObjects.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.Common.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.DataAccess.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.MailServices.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Domain.ValueObjects.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.Common.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.DataAccess.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.MailServices.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\obj\Debug\Domain.Models.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\obj\Debug\Domain.Models.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\obj\Debug\Domain.Models.pdb
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Domain.Models.dll
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Domain.Models.pdb
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Domain.ValueObjects.dll
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.Common.dll
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.DataAccess.dll
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.MailServices.dll
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Domain.ValueObjects.pdb
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.Common.pdb
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.DataAccess.pdb
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\bin\Debug\Infrastructure.MailServices.pdb
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\obj\Debug\Domain.Models.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\obj\Debug\Domain.Models.csproj.CopyComplete
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\obj\Debug\Domain.Models.dll
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\Domain.Models\obj\Debug\Domain.Models.pdb
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Domain.Models\bin\Debug\Domain.Models.dll
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Domain.Models\bin\Debug\Domain.Models.pdb
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Domain.Models\bin\Debug\Domain.ValueObjects.dll
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Domain.Models\bin\Debug\Infrastructure.Common.dll
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Domain.Models\bin\Debug\Infrastructure.DataAccess.dll
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Domain.Models\bin\Debug\Infrastructure.MailServices.dll
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Domain.Models\bin\Debug\Domain.ValueObjects.pdb
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Domain.Models\bin\Debug\Infrastructure.Common.pdb
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Domain.Models\bin\Debug\Infrastructure.DataAccess.pdb
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Domain.Models\bin\Debug\Infrastructure.MailServices.pdb
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Domain.Models\obj\Debug\Domain.Models.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Domain.Models\obj\Debug\Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Domain.Models\obj\Debug\Domain.Models.csproj.CopyComplete
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Domain.Models\obj\Debug\Domain.Models.dll
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\Domain.Models\obj\Debug\Domain.Models.pdb
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Domain.Models\bin\Debug\Domain.Models.dll
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Domain.Models\bin\Debug\Domain.Models.pdb
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Domain.Models\bin\Debug\Domain.ValueObjects.dll
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Domain.Models\bin\Debug\Infrastructure.Common.dll
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Domain.Models\bin\Debug\Infrastructure.DataAccess.dll
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Domain.Models\bin\Debug\Infrastructure.MailServices.dll
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Domain.Models\bin\Debug\Domain.ValueObjects.pdb
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Domain.Models\bin\Debug\Infrastructure.Common.pdb
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Domain.Models\bin\Debug\Infrastructure.DataAccess.pdb
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Domain.Models\bin\Debug\Infrastructure.MailServices.pdb
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Domain.Models\obj\Debug\Domain.Models.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Domain.Models\obj\Debug\Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Domain.Models\obj\Debug\Domain.Models.csproj.CopyComplete
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Domain.Models\obj\Debug\Domain.Models.dll
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\Domain.Models\obj\Debug\Domain.Models.pdb
