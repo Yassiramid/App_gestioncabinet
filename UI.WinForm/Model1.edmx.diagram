@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="3898057b5bb64976a5ec0a2fdd41aad7" Name="Diagram1">
+        <EntityTypeShape EntityType="ProjetFinEtudeModel.Antécedant" Width="1.5" PointX="6" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjetFinEtudeModel.FichierMédical" Width="1.5" PointX="3" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjetFinEtudeModel.patient" Width="1.5" PointX="3.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjetFinEtudeModel.payement" Width="1.5" PointX="3" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjetFinEtudeModel.RDV" Width="1.5" PointX="6" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjetFinEtudeModel.sysdiagram" Width="1.5" PointX="5.75" PointY="10" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjetFinEtudeModel.User" Width="1.5" PointX="7.75" PointY="10" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjetFinEtudeModel.visite" Width="1.5" PointX="0.75" PointY="6" IsExpanded="true" />
+        <AssociationConnector Association="ProjetFinEtudeModel.FK__Antécedan__patie__4BAC3F29" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjetFinEtudeModel.FK__FichierMé__visit__5CD6CB2B" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjetFinEtudeModel.FK__RDV__patient__70DDC3D8" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjetFinEtudeModel.FK__payement__visite__239E4DCF" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjetFinEtudeModel.FK__RDV__visite__6FE99F9F" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

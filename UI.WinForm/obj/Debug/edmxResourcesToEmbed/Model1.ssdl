@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProjetFinEtudeModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Antécedant">
+    <Key>
+      <PropertyRef Name="numA" />
+    </Key>
+    <Property Name="numA" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nomA" Type="nvarchar" MaxLength="20" />
+    <Property Name="dateD" Type="date" />
+    <Property Name="traiter" Type="nvarchar" MaxLength="3" />
+    <Property Name="Observation" Type="nvarchar" MaxLength="200" />
+    <Property Name="patient" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="FichierMédical">
+    <Key>
+      <PropertyRef Name="numF" />
+    </Key>
+    <Property Name="numF" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="typeF" Type="nvarchar" MaxLength="20" />
+    <Property Name="imageF" Type="image" />
+    <Property Name="visite" Type="int" />
+    <Property Name="Observation" Type="nvarchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="patient">
+    <Key>
+      <PropertyRef Name="numP" />
+    </Key>
+    <Property Name="numP" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="nomP" Type="nvarchar" MaxLength="50" />
+    <Property Name="prénomP" Type="nvarchar" MaxLength="50" />
+    <Property Name="sexe" Type="nvarchar" MaxLength="10" />
+    <Property Name="age" Type="int" />
+    <Property Name="dateCreation" Type="date" />
+    <Property Name="télèphone" Type="nvarchar" MaxLength="10" />
+    <Property Name="situationF" Type="nvarchar" MaxLength="20" />
+    <Property Name="mutuelle" Type="nvarchar" MaxLength="20" />
+    <Property Name="adresse" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="payement">
+    <Key>
+      <PropertyRef Name="numP" />
+    </Key>
+    <Property Name="numP" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="visite" Type="int" />
+  </EntityType>
+  <EntityType Name="RDV">
+    <Key>
+      <PropertyRef Name="numR" />
+    </Key>
+    <Property Name="numR" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="dateR" Type="date" />
+    <Property Name="heure" Type="nvarchar" MaxLength="5" />
+    <Property Name="motifR" Type="nvarchar" MaxLength="20" />
+    <Property Name="visite" Type="int" />
+    <Property Name="patient" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="userName" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="password" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="firstName" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="lastName" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="position" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="email" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="profilePicture" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="visite">
+    <Key>
+      <PropertyRef Name="numV" />
+    </Key>
+    <Property Name="numV" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Examen" Type="nvarchar" MaxLength="200" />
+    <Property Name="Conclusion" Type="nvarchar" MaxLength="200" />
+    <Property Name="traitement" Type="nvarchar" MaxLength="200" />
+    <Property Name="motif" Type="nvarchar" MaxLength="20" />
+    <Property Name="montant" Type="float" />
+    <Property Name="payé" Type="bit" />
+  </EntityType>
+  <Association Name="FK__Antécedan__patie__4BAC3F29">
+    <End Role="patient" Type="Self.patient" Multiplicity="0..1" />
+    <End Role="Antécedant" Type="Self.Antécedant" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="patient">
+        <PropertyRef Name="numP" />
+      </Principal>
+      <Dependent Role="Antécedant">
+        <PropertyRef Name="patient" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__FichierMé__visit__5CD6CB2B">
+    <End Role="visite" Type="Self.visite" Multiplicity="0..1" />
+    <End Role="FichierMédical" Type="Self.FichierMédical" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="visite">
+        <PropertyRef Name="numV" />
+      </Principal>
+      <Dependent Role="FichierMédical">
+        <PropertyRef Name="visite" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__payement__visite__239E4DCF">
+    <End Role="visite" Type="Self.visite" Multiplicity="0..1" />
+    <End Role="payement" Type="Self.payement" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="visite">
+        <PropertyRef Name="numV" />
+      </Principal>
+      <Dependent Role="payement">
+        <PropertyRef Name="visite" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__RDV__patient__70DDC3D8">
+    <End Role="patient" Type="Self.patient" Multiplicity="0..1" />
+    <End Role="RDV" Type="Self.RDV" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="patient">
+        <PropertyRef Name="numP" />
+      </Principal>
+      <Dependent Role="RDV">
+        <PropertyRef Name="patient" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__RDV__visite__6FE99F9F">
+    <End Role="visite" Type="Self.visite" Multiplicity="0..1" />
+    <End Role="RDV" Type="Self.RDV" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="visite">
+        <PropertyRef Name="numV" />
+      </Principal>
+      <Dependent Role="RDV">
+        <PropertyRef Name="visite" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="addUser" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="userName" Type="nvarchar" Mode="In" />
+    <Parameter Name="password" Type="nvarchar" Mode="In" />
+    <Parameter Name="firstName" Type="nvarchar" Mode="In" />
+    <Parameter Name="lastName" Type="nvarchar" Mode="In" />
+    <Parameter Name="position" Type="nvarchar" Mode="In" />
+    <Parameter Name="email" Type="nvarchar" Mode="In" />
+    <Parameter Name="profile" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="editUser" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="userName" Type="nvarchar" Mode="In" />
+    <Parameter Name="password" Type="nvarchar" Mode="In" />
+    <Parameter Name="firstName" Type="nvarchar" Mode="In" />
+    <Parameter Name="lastName" Type="nvarchar" Mode="In" />
+    <Parameter Name="position" Type="nvarchar" Mode="In" />
+    <Parameter Name="email" Type="nvarchar" Mode="In" />
+    <Parameter Name="profile" Type="varbinary(max)" Mode="In" />
+    <Parameter Name="id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="fn_diagramobjects" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="int" />
+  <Function Name="loginUser" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="user" Type="nvarchar" Mode="In" />
+    <Parameter Name="password" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="removeUser" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="selectAllUsers" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="selectUser" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="findValue" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="sp_alterdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_creatediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_dropdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagramdefinition" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_renamediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="new_diagramname" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="sp_upgraddiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="UpdateRDV" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="patient" Type="nvarchar" Mode="In" />
+    <Parameter Name="date" Type="date" Mode="In" />
+    <Parameter Name="heure" Type="nvarchar" Mode="In" />
+    <Parameter Name="motif" Type="nvarchar" Mode="In" />
+  </Function>
+  <EntityContainer Name="ProjetFinEtudeModelStoreContainer">
+    <EntitySet Name="Antécedant" EntityType="Self.Antécedant" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="FichierMédical" EntityType="Self.FichierMédical" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="patient" EntityType="Self.patient" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="payement" EntityType="Self.payement" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="RDV" EntityType="Self.RDV" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="visite" EntityType="Self.visite" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Antécedan__patie__4BAC3F29" Association="Self.FK__Antécedan__patie__4BAC3F29">
+      <End Role="patient" EntitySet="patient" />
+      <End Role="Antécedant" EntitySet="Antécedant" />
+    </AssociationSet>
+    <AssociationSet Name="FK__FichierMé__visit__5CD6CB2B" Association="Self.FK__FichierMé__visit__5CD6CB2B">
+      <End Role="visite" EntitySet="visite" />
+      <End Role="FichierMédical" EntitySet="FichierMédical" />
+    </AssociationSet>
+    <AssociationSet Name="FK__payement__visite__239E4DCF" Association="Self.FK__payement__visite__239E4DCF">
+      <End Role="visite" EntitySet="visite" />
+      <End Role="payement" EntitySet="payement" />
+    </AssociationSet>
+    <AssociationSet Name="FK__RDV__patient__70DDC3D8" Association="Self.FK__RDV__patient__70DDC3D8">
+      <End Role="patient" EntitySet="patient" />
+      <End Role="RDV" EntitySet="RDV" />
+    </AssociationSet>
+    <AssociationSet Name="FK__RDV__visite__6FE99F9F" Association="Self.FK__RDV__visite__6FE99F9F">
+      <End Role="visite" EntitySet="visite" />
+      <End Role="RDV" EntitySet="RDV" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

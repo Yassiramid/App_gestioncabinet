@@ -1,0 +1,242 @@
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\UI.WinForm.exe.config
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\UI.WinForm.exe
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\UI.WinForm.pdb
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\CircularProgressBar.dll
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Domain.Models.dll
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Domain.ValueObjects.dll
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.Common.dll
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\WinFormAnimation.dll
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.DataAccess.dll
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.MailServices.dll
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Domain.Models.pdb
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Domain.ValueObjects.pdb
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.Common.pdb
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.DataAccess.pdb
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.MailServices.pdb
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.Form1.resources
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.Form2.resources
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.Test_Forms.Form3.resources
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormCustomPopup.resources
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormLogin.resources
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormMainMenu.resources
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormRecoverPassword.resources
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormUserProfile.resources
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormUsers.resources
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormWelcome.resources
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.Properties.Resources.resources
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.csproj.GenerateResource.Cache
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.exe
+D:\RJ Code Advance\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.pdb
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\UI.WinForm.exe.config
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\UI.WinForm.exe
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\UI.WinForm.pdb
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Domain.Models.dll
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Domain.ValueObjects.dll
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.Common.dll
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.DataAccess.dll
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.MailServices.dll
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Domain.Models.pdb
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Domain.ValueObjects.pdb
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.Common.pdb
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.DataAccess.pdb
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.MailServices.pdb
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.csprojResolveAssemblyReference.cache
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.Form1.resources
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.Form2.resources
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.Test_Forms.Form3.resources
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormCustomPopup.resources
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormLogin.resources
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormMainMenu.resources
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormRecoverPassword.resources
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormUserProfile.resources
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormUsers.resources
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormWelcome.resources
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.Properties.Resources.resources
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.csproj.GenerateResource.Cache
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.exe
+G:\RONET\Traajo\Test Projects\2019\Complete Login Project- Nivel Avanzado\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.pdb
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\UI.WinForm.exe.config
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\UI.WinForm.exe
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\UI.WinForm.pdb
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Domain.Models.dll
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Domain.ValueObjects.dll
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.Common.dll
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.DataAccess.dll
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.MailServices.dll
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Domain.Models.pdb
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Domain.ValueObjects.pdb
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.Common.pdb
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.DataAccess.pdb
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.MailServices.pdb
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.csprojResolveAssemblyReference.cache
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.Form1.resources
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.Form2.resources
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.Test_Forms.Form3.resources
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormCustomPopup.resources
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormLogin.resources
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormMainMenu.resources
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormRecoverPassword.resources
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormUserProfile.resources
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormUsers.resources
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormWelcome.resources
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.Properties.Resources.resources
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.csproj.GenerateResource.Cache
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.exe
+G:\temp usb\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\UI.WinForm.exe.config
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\UI.WinForm.exe
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\UI.WinForm.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\CircularProgressBar.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Domain.Models.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Domain.ValueObjects.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.Common.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\WinFormAnimation.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.DataAccess.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.MailServices.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Domain.Models.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Domain.ValueObjects.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.Common.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.DataAccess.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.MailServices.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.Form1.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.Form2.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.Test_Forms.Form3.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormCustomPopup.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormLogin.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormMainMenu.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormRecoverPassword.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormUserProfile.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormUsers.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormWelcome.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.Properties.Resources.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.csproj.GenerateResource.Cache
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.exe
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.csprojAssemblyReference.cache
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.csproj.CopyComplete
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\UI.WinForm.exe.config
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\UI.WinForm.exe
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\UI.WinForm.pdb
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Domain.Models.dll
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Domain.ValueObjects.dll
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.Common.dll
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.DataAccess.dll
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.MailServices.dll
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Domain.Models.pdb
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Domain.ValueObjects.pdb
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.Common.pdb
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.DataAccess.pdb
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Infrastructure.MailServices.pdb
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.Form1.resources
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.Form2.resources
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.Test_Forms.Form3.resources
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormCustomPopup.resources
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormLogin.resources
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormMainMenu.resources
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormRecoverPassword.resources
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormUserProfile.resources
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormUsers.resources
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.FormWelcome.resources
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.Properties.Resources.resources
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.csproj.CopyComplete
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.exe
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.pdb
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.Nov_Patient.resources
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.RGLRDV.resources
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.TraiterLeCas.resources
+C:\Users\dell\Desktop\flousseee\nv_test\Full Login Project-C-Sharp SQL Server\FullLoginLayered_CSharp\UI.WinForm\obj\Debug\UI.WinForm.ValiderLaVisete.resources
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\UI.WinForm.exe.config
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\UI.WinForm.exe
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\UI.WinForm.pdb
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\Domain.Models.dll
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\Domain.ValueObjects.dll
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\Infrastructure.Common.dll
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\Infrastructure.DataAccess.dll
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\Infrastructure.MailServices.dll
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\Domain.Models.pdb
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\Domain.ValueObjects.pdb
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\Infrastructure.Common.pdb
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\Infrastructure.DataAccess.pdb
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\Infrastructure.MailServices.pdb
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.Form1.resources
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.Form2.resources
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.FormCustomPopup.resources
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.FormLogin.resources
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.FormMainMenu.resources
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.FormRecoverPassword.resources
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.FormUserProfile.resources
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.FormUsers.resources
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.FormWelcome.resources
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.Nov_Patient.resources
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.Properties.Resources.resources
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.RGLRDV.resources
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.TraiterLeCas.resources
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.ValiderLaVisete.resources
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.csproj.CopyComplete
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.exe
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.pdb
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.les_Antécedants.resources
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.Fichier_Medical.resources
+C:\Users\HP\Desktop\Projet Fin D'etude\Yassir\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.Ajouter_RDV.resources
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\UI.WinForm.exe.config
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\UI.WinForm.exe
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\UI.WinForm.pdb
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\Domain.Models.dll
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\Domain.ValueObjects.dll
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\EntityFramework.dll
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\Infrastructure.Common.dll
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\Infrastructure.DataAccess.dll
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\Infrastructure.MailServices.dll
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\Domain.Models.pdb
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\Domain.ValueObjects.pdb
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\Infrastructure.Common.pdb
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\EntityFramework.xml
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\Infrastructure.DataAccess.pdb
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\Infrastructure.MailServices.pdb
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.Ajouter_RDV.resources
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.Fichier_Medical.resources
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.Form1.resources
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.Form2.resources
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.FormCustomPopup.resources
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.FormLogin.resources
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.FormMainMenu.resources
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.FormRecoverPassword.resources
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.FormUserProfile.resources
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.FormUsers.resources
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.FormWelcome.resources
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.les_Antécedants.resources
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.Nov_Patient.resources
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.Properties.Resources.resources
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.RGLRDV.resources
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.TraiterLeCas.resources
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.ValiderLaVisete.resources
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.csproj.CopyComplete
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.exe
+C:\Users\dell\Desktop\projet_ samiha_telecharger_google\ProjetFinEtude\Projet_Yassir_Samiha\UI.WinForm\obj\Debug\UI.WinForm.pdb

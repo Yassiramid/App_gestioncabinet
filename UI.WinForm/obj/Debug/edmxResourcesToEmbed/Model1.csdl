@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProjetFinEtudeModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Antécedant">
+    <Key>
+      <PropertyRef Name="numA" />
+    </Key>
+    <Property Name="numA" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nomA" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="dateD" Type="DateTime" Precision="0" />
+    <Property Name="traiter" Type="String" MaxLength="3" FixedLength="false" Unicode="true" />
+    <Property Name="Observation" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="patient" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="patient1" Relationship="Self.FK__Antécedan__patie__4BAC3F29" FromRole="Antécedant" ToRole="patient" />
+  </EntityType>
+  <EntityType Name="FichierMédical">
+    <Key>
+      <PropertyRef Name="numF" />
+    </Key>
+    <Property Name="numF" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="typeF" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="imageF" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="visite" Type="Int32" />
+    <Property Name="Observation" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="visite1" Relationship="Self.FK__FichierMé__visit__5CD6CB2B" FromRole="FichierMédical" ToRole="visite" />
+  </EntityType>
+  <EntityType Name="patient">
+    <Key>
+      <PropertyRef Name="numP" />
+    </Key>
+    <Property Name="numP" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="nomP" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="prénomP" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="sexe" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="age" Type="Int32" />
+    <Property Name="dateCreation" Type="DateTime" Precision="0" />
+    <Property Name="télèphone" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="situationF" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="mutuelle" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="adresse" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Antécedant" Relationship="Self.FK__Antécedan__patie__4BAC3F29" FromRole="patient" ToRole="Antécedant" />
+    <NavigationProperty Name="RDVs" Relationship="Self.FK__RDV__patient__70DDC3D8" FromRole="patient" ToRole="RDV" />
+  </EntityType>
+  <EntityType Name="payement">
+    <Key>
+      <PropertyRef Name="numP" />
+    </Key>
+    <Property Name="numP" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="visite" Type="Int32" />
+    <NavigationProperty Name="visite1" Relationship="Self.FK__payement__visite__239E4DCF" FromRole="payement" ToRole="visite" />
+  </EntityType>
+  <EntityType Name="RDV">
+    <Key>
+      <PropertyRef Name="numR" />
+    </Key>
+    <Property Name="numR" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="dateR" Type="DateTime" Precision="0" />
+    <Property Name="heure" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
+    <Property Name="motifR" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="visite" Type="Int32" />
+    <Property Name="patient" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="patient1" Relationship="Self.FK__RDV__patient__70DDC3D8" FromRole="RDV" ToRole="patient" />
+    <NavigationProperty Name="visite1" Relationship="Self.FK__RDV__visite__6FE99F9F" FromRole="RDV" ToRole="visite" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="userName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="password" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="firstName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="lastName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="position" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="email" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="profilePicture" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="visite">
+    <Key>
+      <PropertyRef Name="numV" />
+    </Key>
+    <Property Name="numV" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Examen" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="Conclusion" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="traitement" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="motif" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="montant" Type="Double" />
+    <Property Name="payé" Type="Boolean" />
+    <NavigationProperty Name="FichierMédical" Relationship="Self.FK__FichierMé__visit__5CD6CB2B" FromRole="visite" ToRole="FichierMédical" />
+    <NavigationProperty Name="payements" Relationship="Self.FK__payement__visite__239E4DCF" FromRole="visite" ToRole="payement" />
+    <NavigationProperty Name="RDVs" Relationship="Self.FK__RDV__visite__6FE99F9F" FromRole="visite" ToRole="RDV" />
+  </EntityType>
+  <Association Name="FK__Antécedan__patie__4BAC3F29">
+    <End Role="patient" Type="Self.patient" Multiplicity="0..1" />
+    <End Role="Antécedant" Type="Self.Antécedant" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="patient">
+        <PropertyRef Name="numP" />
+      </Principal>
+      <Dependent Role="Antécedant">
+        <PropertyRef Name="patient" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__FichierMé__visit__5CD6CB2B">
+    <End Role="visite" Type="Self.visite" Multiplicity="0..1" />
+    <End Role="FichierMédical" Type="Self.FichierMédical" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="visite">
+        <PropertyRef Name="numV" />
+      </Principal>
+      <Dependent Role="FichierMédical">
+        <PropertyRef Name="visite" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__RDV__patient__70DDC3D8">
+    <End Role="patient" Type="Self.patient" Multiplicity="0..1" />
+    <End Role="RDV" Type="Self.RDV" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="patient">
+        <PropertyRef Name="numP" />
+      </Principal>
+      <Dependent Role="RDV">
+        <PropertyRef Name="patient" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__payement__visite__239E4DCF">
+    <End Role="visite" Type="Self.visite" Multiplicity="0..1" />
+    <End Role="payement" Type="Self.payement" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="visite">
+        <PropertyRef Name="numV" />
+      </Principal>
+      <Dependent Role="payement">
+        <PropertyRef Name="visite" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__RDV__visite__6FE99F9F">
+    <End Role="visite" Type="Self.visite" Multiplicity="0..1" />
+    <End Role="RDV" Type="Self.RDV" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="visite">
+        <PropertyRef Name="numV" />
+      </Principal>
+      <Dependent Role="RDV">
+        <PropertyRef Name="visite" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ProjetFinEtudeEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Antécedant" EntityType="Self.Antécedant" />
+    <EntitySet Name="FichierMédical" EntityType="Self.FichierMédical" />
+    <EntitySet Name="patients" EntityType="Self.patient" />
+    <EntitySet Name="payements" EntityType="Self.payement" />
+    <EntitySet Name="RDVs" EntityType="Self.RDV" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <EntitySet Name="visites" EntityType="Self.visite" />
+    <AssociationSet Name="FK__Antécedan__patie__4BAC3F29" Association="Self.FK__Antécedan__patie__4BAC3F29">
+      <End Role="patient" EntitySet="patients" />
+      <End Role="Antécedant" EntitySet="Antécedant" />
+    </AssociationSet>
+    <AssociationSet Name="FK__FichierMé__visit__5CD6CB2B" Association="Self.FK__FichierMé__visit__5CD6CB2B">
+      <End Role="visite" EntitySet="visites" />
+      <End Role="FichierMédical" EntitySet="FichierMédical" />
+    </AssociationSet>
+    <AssociationSet Name="FK__RDV__patient__70DDC3D8" Association="Self.FK__RDV__patient__70DDC3D8">
+      <End Role="patient" EntitySet="patients" />
+      <End Role="RDV" EntitySet="RDVs" />
+    </AssociationSet>
+    <AssociationSet Name="FK__payement__visite__239E4DCF" Association="Self.FK__payement__visite__239E4DCF">
+      <End Role="visite" EntitySet="visites" />
+      <End Role="payement" EntitySet="payements" />
+    </AssociationSet>
+    <AssociationSet Name="FK__RDV__visite__6FE99F9F" Association="Self.FK__RDV__visite__6FE99F9F">
+      <End Role="visite" EntitySet="visites" />
+      <End Role="RDV" EntitySet="RDVs" />
+    </AssociationSet>
+    <FunctionImport Name="addUser">
+      <Parameter Name="userName" Mode="In" Type="String" />
+      <Parameter Name="password" Mode="In" Type="String" />
+      <Parameter Name="firstName" Mode="In" Type="String" />
+      <Parameter Name="lastName" Mode="In" Type="String" />
+      <Parameter Name="position" Mode="In" Type="String" />
+      <Parameter Name="email" Mode="In" Type="String" />
+      <Parameter Name="profile" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="editUser">
+      <Parameter Name="userName" Mode="In" Type="String" />
+      <Parameter Name="password" Mode="In" Type="String" />
+      <Parameter Name="firstName" Mode="In" Type="String" />
+      <Parameter Name="lastName" Mode="In" Type="String" />
+      <Parameter Name="position" Mode="In" Type="String" />
+      <Parameter Name="email" Mode="In" Type="String" />
+      <Parameter Name="profile" Mode="In" Type="Binary" />
+      <Parameter Name="id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="loginUser" ReturnType="Collection(ProjetFinEtudeModel.loginUser_Result)">
+      <Parameter Name="user" Mode="In" Type="String" />
+      <Parameter Name="password" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="removeUser">
+      <Parameter Name="id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="selectAllUsers" ReturnType="Collection(ProjetFinEtudeModel.selectAllUsers_Result)" />
+    <FunctionImport Name="selectUser" ReturnType="Collection(ProjetFinEtudeModel.selectUser_Result)">
+      <Parameter Name="findValue" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_alterdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_creatediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_dropdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagramdefinition" ReturnType="Collection(ProjetFinEtudeModel.sp_helpdiagramdefinition_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagrams" ReturnType="Collection(ProjetFinEtudeModel.sp_helpdiagrams_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_renamediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="new_diagramname" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_upgraddiagrams" />
+    <FunctionImport Name="UpdateRDV">
+      <Parameter Name="patient" Mode="In" Type="String" />
+      <Parameter Name="date" Mode="In" Type="DateTime" />
+      <Parameter Name="heure" Mode="In" Type="String" />
+      <Parameter Name="motif" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="loginUser_Result">
+    <Property Type="Int32" Name="id" Nullable="false" />
+    <Property Type="String" Name="userName" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="password" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="firstName" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="lastName" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="position" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="email" Nullable="false" MaxLength="100" />
+    <Property Type="Binary" Name="profilePicture" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="selectAllUsers_Result">
+    <Property Type="Int32" Name="id" Nullable="false" />
+    <Property Type="String" Name="userName" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="password" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="firstName" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="lastName" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="position" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="email" Nullable="false" MaxLength="100" />
+    <Property Type="Binary" Name="profilePicture" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="selectUser_Result">
+    <Property Type="Int32" Name="id" Nullable="false" />
+    <Property Type="String" Name="userName" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="password" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="firstName" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="lastName" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="position" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="email" Nullable="false" MaxLength="100" />
+    <Property Type="Binary" Name="profilePicture" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagramdefinition_Result">
+    <Property Type="Int32" Name="version" Nullable="true" />
+    <Property Type="Binary" Name="definition" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagrams_Result">
+    <Property Type="String" Name="Database" Nullable="true" MaxLength="128" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="128" />
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="Owner" Nullable="true" MaxLength="128" />
+    <Property Type="Int32" Name="OwnerID" Nullable="false" />
+  </ComplexType>
+</Schema>

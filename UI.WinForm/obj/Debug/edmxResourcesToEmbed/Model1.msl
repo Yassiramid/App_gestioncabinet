@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ProjetFinEtudeModelStoreContainer" CdmEntityContainer="ProjetFinEtudeEntities">
+    <EntitySetMapping Name="Antécedant">
+      <EntityTypeMapping TypeName="ProjetFinEtudeModel.Antécedant">
+        <MappingFragment StoreEntitySet="Antécedant">
+          <ScalarProperty Name="numA" ColumnName="numA" />
+          <ScalarProperty Name="nomA" ColumnName="nomA" />
+          <ScalarProperty Name="dateD" ColumnName="dateD" />
+          <ScalarProperty Name="traiter" ColumnName="traiter" />
+          <ScalarProperty Name="Observation" ColumnName="Observation" />
+          <ScalarProperty Name="patient" ColumnName="patient" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FichierMédical">
+      <EntityTypeMapping TypeName="ProjetFinEtudeModel.FichierMédical">
+        <MappingFragment StoreEntitySet="FichierMédical">
+          <ScalarProperty Name="numF" ColumnName="numF" />
+          <ScalarProperty Name="typeF" ColumnName="typeF" />
+          <ScalarProperty Name="imageF" ColumnName="imageF" />
+          <ScalarProperty Name="visite" ColumnName="visite" />
+          <ScalarProperty Name="Observation" ColumnName="Observation" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="patients">
+      <EntityTypeMapping TypeName="ProjetFinEtudeModel.patient">
+        <MappingFragment StoreEntitySet="patient">
+          <ScalarProperty Name="numP" ColumnName="numP" />
+          <ScalarProperty Name="nomP" ColumnName="nomP" />
+          <ScalarProperty Name="prénomP" ColumnName="prénomP" />
+          <ScalarProperty Name="sexe" ColumnName="sexe" />
+          <ScalarProperty Name="age" ColumnName="age" />
+          <ScalarProperty Name="dateCreation" ColumnName="dateCreation" />
+          <ScalarProperty Name="télèphone" ColumnName="télèphone" />
+          <ScalarProperty Name="situationF" ColumnName="situationF" />
+          <ScalarProperty Name="mutuelle" ColumnName="mutuelle" />
+          <ScalarProperty Name="adresse" ColumnName="adresse" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="payements">
+      <EntityTypeMapping TypeName="ProjetFinEtudeModel.payement">
+        <MappingFragment StoreEntitySet="payement">
+          <ScalarProperty Name="numP" ColumnName="numP" />
+          <ScalarProperty Name="visite" ColumnName="visite" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RDVs">
+      <EntityTypeMapping TypeName="ProjetFinEtudeModel.RDV">
+        <MappingFragment StoreEntitySet="RDV">
+          <ScalarProperty Name="numR" ColumnName="numR" />
+          <ScalarProperty Name="dateR" ColumnName="dateR" />
+          <ScalarProperty Name="heure" ColumnName="heure" />
+          <ScalarProperty Name="motifR" ColumnName="motifR" />
+          <ScalarProperty Name="visite" ColumnName="visite" />
+          <ScalarProperty Name="patient" ColumnName="patient" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="ProjetFinEtudeModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="ProjetFinEtudeModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="userName" ColumnName="userName" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="firstName" ColumnName="firstName" />
+          <ScalarProperty Name="lastName" ColumnName="lastName" />
+          <ScalarProperty Name="position" ColumnName="position" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="profilePicture" ColumnName="profilePicture" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="visites">
+      <EntityTypeMapping TypeName="ProjetFinEtudeModel.visite">
+        <MappingFragment StoreEntitySet="visite">
+          <ScalarProperty Name="numV" ColumnName="numV" />
+          <ScalarProperty Name="Examen" ColumnName="Examen" />
+          <ScalarProperty Name="Conclusion" ColumnName="Conclusion" />
+          <ScalarProperty Name="traitement" ColumnName="traitement" />
+          <ScalarProperty Name="motif" ColumnName="motif" />
+          <ScalarProperty Name="montant" ColumnName="montant" />
+          <ScalarProperty Name="payé" ColumnName="payé" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="addUser" FunctionName="ProjetFinEtudeModel.Store.addUser" />
+    <FunctionImportMapping FunctionImportName="editUser" FunctionName="ProjetFinEtudeModel.Store.editUser" />
+    <FunctionImportMapping FunctionImportName="loginUser" FunctionName="ProjetFinEtudeModel.Store.loginUser">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ProjetFinEtudeModel.loginUser_Result">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="userName" ColumnName="userName" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="firstName" ColumnName="firstName" />
+          <ScalarProperty Name="lastName" ColumnName="lastName" />
+          <ScalarProperty Name="position" ColumnName="position" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="profilePicture" ColumnName="profilePicture" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="removeUser" FunctionName="ProjetFinEtudeModel.Store.removeUser" />
+    <FunctionImportMapping FunctionImportName="selectAllUsers" FunctionName="ProjetFinEtudeModel.Store.selectAllUsers">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ProjetFinEtudeModel.selectAllUsers_Result">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="userName" ColumnName="userName" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="firstName" ColumnName="firstName" />
+          <ScalarProperty Name="lastName" ColumnName="lastName" />
+          <ScalarProperty Name="position" ColumnName="position" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="profilePicture" ColumnName="profilePicture" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="selectUser" FunctionName="ProjetFinEtudeModel.Store.selectUser">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ProjetFinEtudeModel.selectUser_Result">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="userName" ColumnName="userName" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="firstName" ColumnName="firstName" />
+          <ScalarProperty Name="lastName" ColumnName="lastName" />
+          <ScalarProperty Name="position" ColumnName="position" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="profilePicture" ColumnName="profilePicture" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_alterdiagram" FunctionName="ProjetFinEtudeModel.Store.sp_alterdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_creatediagram" FunctionName="ProjetFinEtudeModel.Store.sp_creatediagram" />
+    <FunctionImportMapping FunctionImportName="sp_dropdiagram" FunctionName="ProjetFinEtudeModel.Store.sp_dropdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_helpdiagramdefinition" FunctionName="ProjetFinEtudeModel.Store.sp_helpdiagramdefinition">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ProjetFinEtudeModel.sp_helpdiagramdefinition_Result">
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_helpdiagrams" FunctionName="ProjetFinEtudeModel.Store.sp_helpdiagrams">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ProjetFinEtudeModel.sp_helpdiagrams_Result">
+          <ScalarProperty Name="Database" ColumnName="Database" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Owner" ColumnName="Owner" />
+          <ScalarProperty Name="OwnerID" ColumnName="OwnerID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_renamediagram" FunctionName="ProjetFinEtudeModel.Store.sp_renamediagram" />
+    <FunctionImportMapping FunctionImportName="sp_upgraddiagrams" FunctionName="ProjetFinEtudeModel.Store.sp_upgraddiagrams" />
+    <FunctionImportMapping FunctionImportName="UpdateRDV" FunctionName="ProjetFinEtudeModel.Store.UpdateRDV" />
+  </EntityContainerMapping>
+</Mapping>
